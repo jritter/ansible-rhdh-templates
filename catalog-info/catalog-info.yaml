@@ -32,7 +32,7 @@ metadata:
   {%- if values.devSpacesBaseUrl %}
   links:
     - url: ${{ values.devSpacesBaseUrl }}
-      title: Open Ansible project in OpenShift Dev Spaces
+      title: Open in Ansible development workspaces
       icon: web
   {%- endif %}
 spec:
